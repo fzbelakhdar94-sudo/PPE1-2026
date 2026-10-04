@@ -1,3 +1,4 @@
-##Exercice 1                                                     La synvhronisation est réussie. La commande git commit a été mal utilisée au départ à cause du message qui suit le -m.
+##Pipelines: Je découvre que se balader entre les chemins relatifs n'est pas si évidents. Le signe ~ devient necessaire pour cette étape. La maitrise des signes > et >> est également necessaire pour ne pas écraser le travail entammé. Je ne maitrise pas encore les messages à annoncer après les commandes commit et echo.
+J'ai découvert que nano et la commande touch peuvent créer un fichier vide de la même manière.                                                      La synvhronisation est réussie. La commande git commit a été mal utilisée au départ à cause du message qui suit le -m.
 
                                                      Création de dépot sur Github -> Cloner sur ma machine -> Création de ce Journal de bord du projet encadré. La synchronisation depuis le dépot n'a pas fonctionné, point reste à revoir. 
