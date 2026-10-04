@@ -1,8 +1,10 @@
-# Les commandes pour exercice 1
-Noter que les commandes doivent être écrites ensemble, car si on procède à une commande par année, chaque commande écrase la précedente 
+# Les commandes pour exercice 1 : comptes.txt 
+
 echo "Annotations en 2016 :" > Exercices/comptes.txt
 cat donnees/*.ann | grep "2016" | wc -l >> Exercices/comptes.txt
 echo "Annotations en 2018 :" >> Exercices/comptes.txt
 cat donnees/*.ann | grep "2018" | wc -l >> Exercices/comptes.txt
 echo "Annotations en 2017 :" >> Exercices/comptes.txt
 cat donnees/*.ann | grep "2017" | wc -l >> Exercices/comptes.txt
+
+PS: si on procède ligne par ligne en faisant entrée, on écrase le travail précédent 
