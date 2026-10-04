@@ -1,1 +1,1 @@
-Journal de bord du projet encadré
+##Exercice 1                                                     Création de dépot sur Github -> Cloner sur ma machine -> Création de ce Journal de bord du projet encadré. La synchronisation depuis le dépot n'a pas fonctionné, point reste à revoir. 
